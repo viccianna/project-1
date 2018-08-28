@@ -24,4 +24,11 @@ Um uns noch besser mit dem Programm vertraut zu machen, haben wir uns in der Stu
 Wir haben einen Schneemann (mit dem Namen Vicci Jo Man) gemalt und ihn auf einem Berg herum laufen lassen. Außerdem hat er seinen
 Arm bewegt und sich mit uns unterhalten. Zuerst hat er uns gefragt wie wir heißen, dann unseren Namen bewundert und uns nach unserer Meinung über das Wetter gefragt.
 Am Ende der Stunde haben wir es nicht gespeichert, da es nur eine Übung war und nicht unser richtiges Projekt. Wir haben aber einen Screenshot gemacht.
+
+
  ![bsp stride](image/27.8.png "Screenshot von Schneemann")
+ 
+ ## 28.08.2018
+ ### Illuminati
+ Heute am Illuminati Tag habenm wir uns um unsere Internet Präsenz gekümmert. Wir haben den GitHub Block gekümmert und gelernt 
+ wie man Screensgotts einfügt und den Olymp besteigt. Außerdem haben wir Mozilla Firefox installiert und so etwas gutes für die Schule getan.

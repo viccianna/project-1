@@ -24,4 +24,4 @@ Um uns noch besser mit dem Programm vertraut zu machen, haben wir uns in der Stu
 Wir haben einen Schneemann (mit dem Namen Vicci Jo Man) gemalt und ihn auf einem Berg herum laufen lassen. Außerdem hat er seinen
 Arm bewegt und sich mit uns unterhalten. Zuerst hat er uns gefragt wie wir heißen, dann unseren Namen bewundert und uns nach unserer Meinung über das Wetter gefragt.
 Am Ende der Stunde haben wir es nicht gespeichert, da es nur eine Übung war und nicht unser richtiges Projekt. Wir haben aber einen Screenshot gemacht.
-(image/27.8.png "Screenshot von Schneemann")
+(image/ "Screenshot von Schneemann")

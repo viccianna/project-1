@@ -41,4 +41,4 @@ einen Stift eine bestimmte Linie zeichnen zu lassen. Den Stift, bzw. das Kostüm
 Program näher angesehen und eine große Auswahl an verschiedenen Kostümen bei der Suche gefunden hatte. Ich habe eine Reihe von Befehlen zusammengestellt und zu meiner Überraschung hat es tatsächlich funktioniert, aber ich hatte auch ein wenig Zuversicht, dass
 es klappen würde.
 
-![bsp stride](image/screenshot2.9new.png)
+![bsp stride](image/screenshot 2.9 new.png)

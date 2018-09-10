@@ -45,5 +45,7 @@ es klappen würde.
 
 ![bsp stride](image/screenshot 2.9 new.png "Screenshot von Befehlen")
 
+![bsp stride](image/screenshot 2.9 new.png)
+
 ## 05.09.2018 Victoria
 

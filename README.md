@@ -36,9 +36,11 @@ Am Ende der Stunde haben wir es nicht gespeichert, da es nur eine Übung war und
 
 ## 02.09.2018
 ### Experimentieren Victoria
-Heute habe ich mich erneut zu Hause an unser gemeinsames Project gesetzt und mit dem Program experimentiert. Diesesmal habe ich versucht
-einen Stift eine bestimmte Linie zeichnen zu lassen. Den Stift, bzw. das Kostüm, habe ich heute erst gefunden, nachdem ich mir das
-Program näher angesehen und eine große Auswahl an verschiedenen Kostümen bei der Suche gefunden hatte. Ich habe eine Reihe von Befehlen zusammengestellt und zu meiner Überraschung hat es tatsächlich funktioniert, aber ich hatte auch ein wenig Zuversicht, dass
+Heute habe ich mich erneut zu Hause an unser gemeinsames Project gesetzt und mit dem Programm experimentiert.
+Diesesmal habe ich versucht einen Stift eine bestimmte Linie zeichnen zu lassen. Den Stift, bzw. das Kostüm, 
+habe ich heute erst gefunden, nachdem ich mir das Programm näher angesehen und eine große Auswahl an 
+verschiedenen Kostümen bei der Suche gefunden hatte. Ich habe eine Reihe von Befehlen zusammengestellt 
+und zu meiner Überraschung hat es tatsächlich funktioniert, aber ich hatte auch ein wenig Zuversicht, dass
 es klappen würde.
 
 ![bsp stride](image/screenshot 2.9 new.png "Screenshot von Befehlen")

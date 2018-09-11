@@ -49,3 +49,8 @@ es klappen würde.
 
 ## 05.09.2018 Victoria
 
+## 11.09.2018
+### Animation Weltkarte
+
+![bsp stride](image/11.09.png)
+

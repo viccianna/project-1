@@ -47,8 +47,6 @@ es klappen würde.
 
 ![bsp stride](image/2.9 new.png)
 
-## 05.09.2018 Victoria
-
 ## 11.09.2018
 ### Animation Weltkarte
 
@@ -60,3 +58,15 @@ abstürzt. Allerdings war uns diese Idee zu wenig interaktiv, deshalb mussten wi
 Wir haben mithilfe von Google Earth den Hintergrund zu einer Weltkarte geändert. Daraufhin haben wir aus einer Flugzeugbild das Flugzeug ausgeschnitten und es so programmiert, dass es endlos um die ganze Welt fliegt und sich währenddessen mit dem Spieler unterhält.
 Es hat erzählt wie es heißt und dann den Spieler eingeladen, mit ihm zusammen die Welt zu retten.
 Unser Problem lag in dieser Stunde darin, dass die Flugzeuganimation zu groß war aber sobald man sie verkleinerte in ihren Konturen verschwamm. Außerdem war es nicht möglich,dass Flugzeug bedeutend langsamer fliegen zu lassen.
+
+## 25.09.2018
+### Zwei Welten
+In der heutigen Doppelstunde, war ich alleine, da Johanna einen Termin hatte. Ich habe mich mit unserem Projekt befasst und das Spiel weiter bearbeitet. Ich habe eine zweite Bühne hinzugefügt (ein neuer Planet), welcher das erste Level des Spiels darstellen wird.
+Das Flugzeug begleitet den Spieler durch das Spiel und interargiert auch mit ihm.
+
+## 19.10.2018
+### Informatik Ferien 
+Am Ende der Ferien waren wir so motiviert und haben uns zum arbeiten getroffen. Wir haben versucht Snap auf Johannas Laptop zu öffnebn, allerdings ist der etwas in die Jahre gekommene Laptop jedes Mal erneut abgestürzt. Deshalb haben wir uns schlussendlich mit unserem Github Blog beschäftigt und einen Plan zur weiteren Vorgehensweise unser Spiel betreffend ausgearbeitet. Im Endefekt ein äußert produkotiver und gut investierter Ferientag.
+
+## 22.10.2018
+### Planetenwechsel und Kommunikation zwischen Bühne und Sprite

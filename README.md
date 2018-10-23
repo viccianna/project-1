@@ -66,7 +66,8 @@ Das Flugzeug begleitet den Spieler durch das Spiel und interargiert auch mit ihm
 
 ## 19.10.2018
 ### Informatik Ferien 
-Am Ende der Ferien waren wir so motiviert und haben uns zum arbeiten getroffen. Wir haben versucht Snap auf Johannas Laptop zu öffnebn, allerdings ist der etwas in die Jahre gekommene Laptop jedes Mal erneut abgestürzt. Deshalb haben wir uns schlussendlich mit unserem Github Blog beschäftigt und einen Plan zur weiteren Vorgehensweise unser Spiel betreffend ausgearbeitet. Im Endefekt ein äußert produkotiver und gut investierter Ferientag.
+Am Ende der Ferien waren wir so motiviert, dass wir haben uns zum arbeiten getroffen. Wir haben versucht Snap auf Johannas Laptop zu öffnen, allerdings ist der etwas in die Jahre gekommene Laptop jedes Mal erneut abgestürzt. Deshalb haben wir uns schlussendlich mit unserem Github Blog beschäftigt und einen Plan zur weiteren Vorgehensweise unser Spiel betreffend ausgearbeitet. Im Endefekt ein äußert produktiver und gut investierter Ferientag. 
 
 ## 22.10.2018
 ### Planetenwechsel und Kommunikation zwischen Bühne und Sprite
+In dieser Stunde haben wir nach Vorschlag von Hernn Buhl unsere Befehle überarbeitet und überflüssige Operatoren entfernt. Daraufhin haben wir uns mit der Kommunikation zwischen verschiedenen Objekten innerhalb des Programms beschäftigt. Herr Buhl hat uns erklärt, dass Objekte in Form eines Befehls Nachrichten senden und empfangen können. Dieses Prinzip haben wir nun auch in unserem Spiel umgesetzt. Nun sendet unser Flugzeug eine Nachricht an die Hintergründe, wenn es mit der Kommunikation mit dem Spieler fertig und bereit zur Weiterreise ist. Wenn die Bühnen diesen Befehl erhalten, wechselt die Bühne von der Erde zum anderen Planeten und die Reise nimmt ihren Lauf. To be continued.... 

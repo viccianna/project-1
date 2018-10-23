@@ -1,5 +1,8 @@
 # project-1
 
+## Quellen
+https://www.youtube.com/watch?v=LXQfs7qEXfc
+
 ## 21.08.2018 15 Uhr
 ### Einführungsstunde
 Als aller erstes haben wir uns eine gemeinsame Emailadresse bei Googlemail erstellt, 

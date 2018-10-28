@@ -2,6 +2,7 @@
 
 ## Quellen
 -> https://www.youtube.com/watch?v=LXQfs7qEXfc
+
 -> https://snap.berkeley.edu/snapsource/snap.html
 
 ## 21.08.2018 15 Uhr

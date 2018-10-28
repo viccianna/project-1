@@ -50,6 +50,8 @@ es klappen würde.
 
 ![bsp stride](image/screenshot2.9.png "Screenshot von Befehlen")
 
+Nachdem ich mich dann mit den Befehlen...
+
 ![bsp stride](image/5.9new.PNG)
 
 

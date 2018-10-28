@@ -47,7 +47,7 @@ verschiedenen Kostümen bei der Suche gefunden hatte. Ich habe eine Reihe von Be
 und zu meiner Überraschung hat es tatsächlich funktioniert, aber ich hatte auch ein wenig Zuversicht, dass
 es klappen würde.
 
-![bsp stride](image/screenshot 2.9 new.png "Screenshot von Befehlen")
+![bsp stride](image/screenshot2.9.png "Screenshot von Befehlen")
 
 ![bsp stride](image/2.9 new.png)
 

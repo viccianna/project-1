@@ -75,4 +75,5 @@ Am Ende der Ferien waren wir so motiviert, dass wir haben uns zum arbeiten getro
 ## 22.10.2018
 ### Planetenwechsel und Kommunikation zwischen Bühne und Sprite
 In dieser Stunde haben wir nach Vorschlag von Hernn Buhl unsere Befehle überarbeitet und überflüssige Operatoren entfernt. Daraufhin haben wir uns mit der Kommunikation zwischen verschiedenen Objekten innerhalb des Programms beschäftigt. Herr Buhl hat uns erklärt, dass Objekte in Form eines Befehls Nachrichten senden und empfangen können. Dieses Prinzip haben wir nun auch in unserem Spiel umgesetzt. Nun sendet unser Flugzeug eine Nachricht an die Hintergründe, wenn es mit der Kommunikation mit dem Spieler fertig und bereit zur Weiterreise ist. Wenn die Bühnen diesen Befehl erhalten, wechselt die Bühne von der Erde zum anderen Planeten und die Reise nimmt ihren Lauf. To be continued.... 
+
 ![bsp stride](image/PlanetErde.png)

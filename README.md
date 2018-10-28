@@ -50,6 +50,8 @@ es klappen würde.
 
 ![bsp stride](image/screenshot2.9.png "Screenshot von Befehlen")
 
+![bsp stride](image/5.9new.png)
+
 
 ## 11.09.2018
 ### Animation Weltkarte

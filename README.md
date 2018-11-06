@@ -78,8 +78,15 @@ Am Ende der Ferien waren wir so motiviert, dass wir haben uns zum arbeiten getro
 
 ## 22.10.2018
 ### Planetenwechsel und Kommunikation zwischen Bühne und Sprite
-In dieser Stunde haben wir nach Vorschlag von Hernn Buhl unsere Befehle überarbeitet und überflüssige Operatoren entfernt. Daraufhin haben wir uns mit der Kommunikation zwischen verschiedenen Objekten innerhalb des Programms beschäftigt. Herr Buhl hat uns erklärt, dass Objekte in Form eines Befehls Nachrichten senden und empfangen können. Dieses Prinzip haben wir nun auch in unserem Spiel umgesetzt. Nun sendet unser Flugzeug eine Nachricht an die Hintergründe, wenn es mit der Kommunikation mit dem Spieler fertig und bereit zur Weiterreise ist. Wenn die Bühnen diesen Befehl erhalten, wechselt die Bühne von der Erde zum anderen Planeten und die Reise nimmt ihren Lauf. To be continued.... 
+In dieser Stunde haben wir nach Vorschlag von Herrn Buhl unsere Befehle überarbeitet und überflüssige Operatoren entfernt. Daraufhin haben wir uns mit der Kommunikation zwischen verschiedenen Objekten innerhalb des Programms beschäftigt. Herr Buhl hat uns erklärt, dass Objekte in Form eines Befehls Nachrichten senden und empfangen können. Dieses Prinzip haben wir nun auch in unserem Spiel umgesetzt. Nun sendet unser Flugzeug eine Nachricht an die Hintergründe, wenn es mit der Kommunikation mit dem Spieler fertig und bereit zur Weiterreise ist. Wenn die Bühnen diesen Befehl erhalten, wechselt die Bühne von der Erde zum anderen Planeten und die Reise nimmt ihren Lauf. To be continued.... 
 
 ![bsp stride](image/PlanetErde.png)
 
-## 29.10.20
+## 29.10.2018
+### Metheory ist geboren
+Let us celebrate today as the day where the one and only Metheory saw the light of life. Metheory ist ein selbstgezeichneter Meteorid der in unserem Spiel eine bedeutende Rolle einnimmt. Ebenfalls haben wir einen roten Strich als neue Sprite erschaffen, der in der Lage ist, den Meteor davon abzuhalten, den Boden zu berühren. Dieser rote Strich folgt der X-Position der Maus, bleibt dabei aber in seiner Y-Position.
+
+## 30.10.2018
+### Everything for nothing?
+Heute war ein nicht so guter Tag für uns... es war der schlechteste Tag in unserer Informatikgeschichte (since day 1). Zuerst haben wir den Computer nicht anbekommen... Dann konnte Snap! unser Projekt nicht öffnen, aus für uns unergründlichen Gründen. Nach mehreren Versuchen konnten wir glücklicherweise das Projekt recovern, allerdings in der Version vom 22.10.2018. Nun haben wir erstmal zwei Sicherheitskopien des Projekts gemacht, um sicherzugehen, dass das Spiel nicht wieder verschwindet. Wir mussten nun die Arbeit des Vortages wiederholen und haben das Spiel weiterentwickelt. Dabei hat jede Sprite ein eigenes Skript bekommen, da wir vorher alles in einem Skript hatten. Nachdem wir alles erneut gespeichert hatten, wollten wir es ein letztes mal in der Stunde öffnen und mussten mit Erschrecken feststellen, dass alle Sicherheitskopien sowie das Original erneut nicht abrufbar waren. Wir mussten uns damit abfinden, dass all unsere bis jetzt geleistete Arbeit umsonst gewesen war :(
+

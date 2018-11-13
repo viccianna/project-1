@@ -93,3 +93,16 @@ Heute war ein nicht so guter Tag für uns... es war der schlechteste Tag in unse
 ## 04.11.2018
 ### Glück im Unglück
 Viccianna Vlog: Ich wollte einfach nicht wahrhaben, dass alles weg ist... NEIN! Als ich erwachte kam mir ein Geistesblitz, ich sprang auf und stieß mir den Kopf an der Decke, aber das war es wehrt. Ich sprintete zu meinem Computer, loggte mich ein u8nd sah überglücklich, dass unser Projekt in Sanp noch geöffnet war. Ich machte 3 Sicherheitskopien in der Hoffnung, dasss wir diese auch später im Unterricht öffnen können. and to be continued...
+
+##12.11.2018
+###
+- er hat uns heholfen
+- geschafft zu bouncen
+- prallt vom rand und der sprite ab
+
+##13.11.2018
+###
+- erfolgreicher tag
+- änderung der sprite nach jeweils 10 sek.
+- gewonnen: schwarze loch lässt metheory verschwinden und welt ist gerettet, konfetti und flugzeug erscheinen
+- verloren noch nicht ausgereift

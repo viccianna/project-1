@@ -17,8 +17,8 @@ In diesem Blog werden Johanna und ich die Inhalte der Informatikstunden aufschre
 
 ### <a name="2"></a>Einfindung in das Programm 
 
-## 21.08.2018 15 Uhr
-### Einführungsstunde (Stunde 1)
+### 21.08.2018 15 Uhr
+#### Einführungsstunde (Stunde 1)
 Als aller erstes haben wir uns eine gemeinsame Emailadresse bei Googlemail erstellt, 
 um uns damit beide jederzeit bei Github anmelden zu können.
 Wir haben uns in Herrn Buhls Dokument auf Github über die verschiedenen Programme und Möglichkeiten informiert um zu entscheiden,

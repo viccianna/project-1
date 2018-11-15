@@ -6,7 +6,7 @@
 -> https://snap.berkeley.edu/snapsource/snap.html
 
 ## 21.08.2018 15 Uhr
-### Einführungsstunde
+### Einführungsstunde (Stunde 1)
 Als aller erstes haben wir uns eine gemeinsame Emailadresse bei Googlemail erstellt, 
 um uns damit beide jederzeit bei Github anmelden zu können.
 Wir haben uns in Herrn Buhls Dokument auf Github über die verschiedenen Programme und Möglichkeiten informiert um zu entscheiden,
@@ -24,7 +24,7 @@ Die Figuren habe ich sich bewegen und reden lassen. Außerdem haben sie auf mehr
 schon stolz, dass ich das geschafft habe. 
 
 ## 27.08.2018
-### Zeichnen
+### Zeichnen (Stunde 2)
 Um uns noch besser mit dem Programm vertraut zu machen, haben wir uns in der Stunde mit einem kleinen Projekt beschäftigt. 
 Wir haben einen Schneemann (mit dem Namen Vicci Jo Man) gemalt und ihn auf einem Berg herum laufen lassen. Außerdem hat er seinen
 Arm bewegt und sich mit uns unterhalten. Zuerst hat er uns gefragt wie wir heißen, dann unseren Namen bewundert und uns nach unserer Meinung über das Wetter gefragt.
@@ -33,8 +33,8 @@ Am Ende der Stunde haben wir es nicht gespeichert, da es nur eine Übung war und
 
  ![bsp stride](image/27.8.png "Screenshot von Schneemann")
  
- ## 28.08.2018
- ### Illuminati
+ ## 28.08.2018 
+ ### Illuminati (Stunde 3)
  Heute am Illuminati Tag habenm wir uns um unsere Internet Präsenz gekümmert. Wir haben den GitHub Block gekümmert und gelernt 
  wie man Screensgotts einfügt und den Olymp besteigt. Außerdem haben wir Mozilla Firefox installiert und so etwas gutes für die Schule getan.
 
@@ -83,25 +83,27 @@ In dieser Stunde haben wir nach Vorschlag von Herrn Buhl unsere Befehle überarb
 ![bsp stride](image/PlanetErde.png)
 
 ## 29.10.2018
-### Metheory ist geboren
+### Metheory ist geboren (Stunde ?)
 Let us celebrate today as the day where the one and only Metheory saw the light of life. Metheory ist ein selbstgezeichneter Meteorid der in unserem Spiel eine bedeutende Rolle einnimmt. Ebenfalls haben wir einen roten Strich als neue Sprite erschaffen, der in der Lage ist, den Meteor davon abzuhalten, den Boden zu berühren. Dieser rote Strich folgt der X-Position der Maus, bleibt dabei aber in seiner Y-Position.
 
 ## 30.10.2018
-### Everything for nothing?
+### Everything for nothing? (Stunde ?)
 Heute war ein nicht so guter Tag für uns... es war der schlechteste Tag in unserer Informatikgeschichte (since day 1). Zuerst haben wir den Computer nicht anbekommen... Dann konnte Snap! unser Projekt nicht öffnen, aus für uns unergründlichen Gründen. Nach mehreren Versuchen konnten wir glücklicherweise das Projekt recovern, allerdings in der Version vom 22.10.2018. Nun haben wir erstmal zwei Sicherheitskopien des Projekts gemacht, um sicherzugehen, dass das Spiel nicht wieder verschwindet. Wir mussten nun die Arbeit des Vortages wiederholen und haben das Spiel weiterentwickelt. Dabei hat jede Sprite ein eigenes Skript bekommen, da wir vorher alles in einem Skript hatten. Nachdem wir alles erneut gespeichert hatten, wollten wir es ein letztes mal in der Stunde öffnen und mussten mit Erschrecken feststellen, dass alle Sicherheitskopien sowie das Original erneut nicht abrufbar waren. Wir mussten uns damit abfinden, dass all unsere bis jetzt geleistete Arbeit umsonst gewesen war :(
 
 ## 04.11.2018
-### Glück im Unglück
+### Glück im Unglück (Stunde ?)
 Viccianna Vlog: Ich wollte einfach nicht wahrhaben, dass alles weg ist... NEIN! Als ich erwachte kam mir ein Geistesblitz, ich sprang auf und stieß mir den Kopf an der Decke, aber das war es wehrt. Ich sprintete zu meinem Computer, loggte mich ein u8nd sah überglücklich, dass unser Projekt in Sanp noch geöffnet war. Ich machte 3 Sicherheitskopien in der Hoffnung, dasss wir diese auch später im Unterricht öffnen können. and to be continued...
 
-##12.11.2018
-###
+## 12.11.2018
+### Stunde ?
+Die heutige Stunde war erneut ein Erfolg für uns. Durch die HIlfe von Herrn Buhl haben wir es geschafft, das unser Meteor bei dem Hinderniss bouncet. Somit sind wir bei unserem Spiel ein ganzes Stück weitergekommen und haben das, was wir vergeblich in den letzten 2 Stunden versucht haben endlich geschafft. Außerdem konnten wir die Sprite so programmieren, dass sie nun auch vom Rand abprallt. Mit diesen 2 Schritten haben wir also heute einen großen Vorschritt erzielt. 
 - er hat uns heholfen
 - geschafft zu bouncen
 - prallt vom rand und der sprite ab
 
-##13.11.2018
-###
+## 13.11.2018
+### Stunde ?
+Auch der heutige Tag brachte Erfolge. Wir haben viele Ideen bekommen, wie wir unser Spiel vollenden können. Schlussendlich haben wir uns dafür entschieden, dass am Ende ein schwarzes Loch den Meteor aufsaugt, wenn das Spiel gewonnen ist. Wenn aber das Speil verloren wird, dann explodiert die Welt und das Spiel ist vorbei. Weiterhin aber begleitet das Flugzeug den Spieler.
 - erfolgreicher tag
 - änderung der sprite nach jeweils 10 sek.
 - gewonnen: schwarze loch lässt metheory verschwinden und welt ist gerettet, konfetti und flugzeug erscheinen

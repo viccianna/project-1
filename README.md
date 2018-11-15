@@ -2,13 +2,16 @@
 
 # Inhalt
 [Einleitung](#1)
+[Einfindung in das Programm](#2)
+[Unser Projekt](#3)
+[Fazit und Zusammenfassung](#4)
+[Quellen](#5)
 
 ### <a name="1"></a>Einleitung
+In diesem Blog werden Johanna und ich die Inhalte der Informatikstunden aufschreiben und dokumentieren. Zudem werden wir auch außerhalb der Schule alles hier aufschrieben um es nachvollziebar für die Leser zu machen, falls wir Fortschritte machen sollten. Also viel Spaß beim Lesen!
 
-## Quellen
--> https://www.youtube.com/watch?v=LXQfs7qEXfc
 
--> https://snap.berkeley.edu/snapsource/snap.html
+### <a name="2"></a>Einfindung in das Programm 
 
 ## 21.08.2018 15 Uhr
 ### Einführungsstunde (Stunde 1)
@@ -59,6 +62,8 @@ Nachdem ich mich dann mit den Befehlen...
 
 ![bsp stride](image/5.9new.PNG)
 
+
+### <a name="3"></a>Unser Projekt
 
 ## 11.09.2018
 ### Animation Weltkarte
@@ -113,3 +118,11 @@ Auch der heutige Tag brachte Erfolge. Wir haben viele Ideen bekommen, wie wir un
 - änderung der sprite nach jeweils 10 sek.
 - gewonnen: schwarze loch lässt metheory verschwinden und welt ist gerettet, konfetti und flugzeug erscheinen
 - verloren noch nicht ausgereift
+
+### <a name="4"></a>Fazit und Zusammenfassung
+
+### <a name="5"></a>Quellen
+
+https://www.youtube.com/watch?v=LXQfs7qEXfc
+
+https://snap.berkeley.edu/snapsource/snap.html

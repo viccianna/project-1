@@ -25,12 +25,14 @@ Wir haben uns in Herrn Buhls Dokument auf Github über die verschiedenen Program
 mit welchem wir unser erstes Projekt starten wollen. Wir haben uns länger mit Starlogo TNG beschäftigt,
 fanden dann aber "The Beauty and Joy of Computing" am spannensten. Den Rest der Stunde haben wir das Programm erforscht.
 
-## 25.08.2018 Victoria
+## 25.08.2018 
+### Victoria
 Um mich mehr in das programmieren einzufinden, habe ich mir zu Hause Starlogo TNG heruntergeladen und eineinhalb 
 Stunden mit verschiedenen Befehlen und Figuren herumexperimentiert. Ich habe verschiedene Kombinationenen von Befehlen ausprobiert um
 herauszufinden, wie sich die Figuren, in meinem Fall 2 Schildkröten, dementsprechend verhält.
 
-## 26.08.2018 Johanna
+## 26.08.2018 
+### Johanna
 Ich habe mich Zuhause anderthalb Stunden mit TBaJoC beschäftigt und eigene Figuren gezeichnet. 
 Die Figuren habe ich sich bewegen und reden lassen. Außerdem haben sie auf mehrere Fragen geantwortet. Ich war
 schon stolz, dass ich das geschafft habe. 
@@ -122,6 +124,10 @@ Auch der heutige Tag brachte Erfolge. Wir haben viele Ideen bekommen, wie wir un
 - änderung der sprite nach jeweils 10 sek.
 - gewonnen: schwarze loch lässt metheory verschwinden und welt ist gerettet, konfetti und flugzeug erscheinen
 - verloren noch nicht ausgereift
+
+## 15.11.2018
+### Victoria
+Da wir noch eineige Kleinigkeiten an dem Spiel verfeinern wollen hab ich mich heute Nachmittag erneut mit dem Programm auseinandergesetzt. Ich habe versucht einen kleinen Fehler zu beheben, welchen wir in der letzten Informatikstunde nicht finden konnten. Nach einer Zeit habe ich es hinbekommen. Doch wir haben noch ein zweites Problem, welches ich bis jetzt noch nicht lösen konnte. Außerdem beschäftige ich mich noch mit unserem Blog hier auf Github. Mit einigen Verschönerungen möchte ich diesen Blog nun fast zu Ende bringen. Ich habe ein Inhaltsverzeichnis erstellt und ein paar Inhalte der letzten Stunden hinzugefügt. Außerdem habe ich noch ein paar Inhaltliche Punkte ergänzt (Einleitung, Fazit). Zudem habe ich auch versucht unseren Prozess auf dem Programm inhaltlich zu gliedern, sodass man weiß was zum wirklichen Projekt gehört und was nicht (Einfindungsphase und Projekt). 
 
 ### <a name="4"></a>Fazit und Zusammenfassung
 

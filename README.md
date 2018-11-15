@@ -1,4 +1,4 @@
-# project-1
+# PROJEKT  INFORMATIK
 
 # Inhalt
 [1. Einleitung](#1)

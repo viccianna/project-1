@@ -1,11 +1,11 @@
 # project-1
 
 # Inhalt
-[Einleitung](#1)
-[Einfindung in das Programm](#2)
-[Unser Projekt](#3)
-[Fazit und Zusammenfassung](#4)
-[Quellen](#5)
+[1. Einleitung](#1)
+[2. Einfindung in das Programm](#2)
+[3. Unser Projekt](#3)
+[4. Fazit und Zusammenfassung](#4)
+[5. Quellen](#5)
 
 ### <a name="1"></a>Einleitung
 In diesem Blog werden Johanna und ich die Inhalte der Informatikstunden aufschreiben und dokumentieren. Zudem werden wir auch außerhalb der Schule alles hier aufschrieben um es nachvollziebar für die Leser zu machen, falls wir Fortschritte machen sollten. Also viel Spaß beim Lesen!

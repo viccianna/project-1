@@ -69,7 +69,7 @@ Nachdem ich mich dann mit den Befehlen...
 ![bsp stride](image/5.9new.PNG)
 
 
-### <a name="3"></a>Unser Projekt
+## <a name="3"></a>Unser Projekt
 
 ## 11.09.2018
 ### Animation Weltkarte
@@ -129,9 +129,9 @@ Auch der heutige Tag brachte Erfolge. Wir haben viele Ideen bekommen, wie wir un
 ### Victoria
 Da wir noch eineige Kleinigkeiten an dem Spiel verfeinern wollen hab ich mich heute Nachmittag erneut mit dem Programm auseinandergesetzt. Ich habe versucht einen kleinen Fehler zu beheben, welchen wir in der letzten Informatikstunde nicht finden konnten. Nach einer Zeit habe ich es hinbekommen. Doch wir haben noch ein zweites Problem, welches ich bis jetzt noch nicht lösen konnte. Außerdem beschäftige ich mich noch mit unserem Blog hier auf Github. Mit einigen Verschönerungen möchte ich diesen Blog nun fast zu Ende bringen. Ich habe ein Inhaltsverzeichnis erstellt und ein paar Inhalte der letzten Stunden hinzugefügt. Außerdem habe ich noch ein paar Inhaltliche Punkte ergänzt (Einleitung, Fazit). Zudem habe ich auch versucht unseren Prozess auf dem Programm inhaltlich zu gliedern, sodass man weiß was zum wirklichen Projekt gehört und was nicht (Einfindungsphase und Projekt). 
 
-### <a name="4"></a>Fazit und Zusammenfassung
+## <a name="4"></a>Fazit und Zusammenfassung
 
-### <a name="5"></a>Quellen
+## <a name="5"></a>Quellen
 
 https://www.youtube.com/watch?v=LXQfs7qEXfc
 

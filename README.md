@@ -163,14 +163,14 @@ Herr Buhl hat uns in der 1. Stunde erzählt, dass einige Schüler durch den Info
 
 ## <a name="5"></a>Quellen
 
-https://www.youtube.com/watch?v=LXQfs7qEXfc
+-https://www.youtube.com/watch?v=LXQfs7qEXfc
 
-https://snap.berkeley.edu/snapsource/snap.html
+-https://snap.berkeley.edu/snapsource/snap.html
 
-https://github.com/viccianna/InformatikUnterricht
+-https://github.com/viccianna/InformatikUnterricht
 
 
 Hier findet ihr unseren 2. Blog in dem wir genau unser Spiel erklären, un das Schritt für Schritt.
 Viel Spaß beim nachmachen!
 
-https://github.com/viccianna/BLOG
+-https://github.com/viccianna/BLOG

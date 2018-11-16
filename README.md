@@ -174,6 +174,8 @@ Herr Buhl hat uns in der 1. Stunde erzählt, dass einige Schüler durch den Info
 
 - https://github.com/viccianna/InformatikUnterricht
 
+- https://www.keinblatt.de/blog/?tag=explosion (Bild)
+
 ## <a name="6"></a>Alles zum Spiel
 
 Hier findet ihr unseren 2. Blog in dem wir genau unser Spiel erklären, un das Schritt für Schritt.

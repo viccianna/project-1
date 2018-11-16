@@ -11,6 +11,8 @@
 
 [5. Quellen](#5)
 
+[6. Alles zum Spiel](#6)
+
 ## <a name="1"></a>Einleitung
 In diesem Blog werden Johanna und ich die Inhalte der Informatikstunden aufschreiben und dokumentieren. Zudem werden wir auch außerhalb der Schule alles hier aufschrieben um es nachvollziebar für die Leser zu machen, falls wir Fortschritte machen sollten. Also viel Spaß beim Lesen!
 
@@ -169,8 +171,9 @@ Herr Buhl hat uns in der 1. Stunde erzählt, dass einige Schüler durch den Info
 
 - https://github.com/viccianna/InformatikUnterricht
 
+## <a name="6"></a>Alles zum Spiel
 
 Hier findet ihr unseren 2. Blog in dem wir genau unser Spiel erklären, un das Schritt für Schritt.
 Viel Spaß beim nachmachen!
 
-- https://github.com/viccianna/BLOG
+https://github.com/viccianna/BLOG

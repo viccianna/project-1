@@ -68,11 +68,22 @@ Nachdem ich mich dann mit den Befehlen weiterhin auseinandergestzthabe, habe ich
 
 ![bsp stride](image/5.9new.PNG)
 
+## 03.09.2018
+### Stunde 4
+...
+
+## 04.09.2018
+### Stunde 5
+...
 
 ## <a name="3"></a>Unser Projekt
 
+## 10.09.2018
+### Stunde 6
+...
+
 ## 11.09.2018
-### Animation Weltkarte
+### Animation Weltkarte (Stunde 7)
 
 ![bsp stride](image/11.09.png)
 
@@ -83,8 +94,12 @@ Wir haben mithilfe von Google Earth den Hintergrund zu einer Weltkarte geändert
 Es hat erzählt wie es heißt und dann den Spieler eingeladen, mit ihm zusammen die Welt zu retten.
 Unser Problem lag in dieser Stunde darin, dass die Flugzeuganimation zu groß war aber sobald man sie verkleinerte in ihren Konturen verschwamm. Außerdem war es nicht möglich,dass Flugzeug bedeutend langsamer fliegen zu lassen.
 
-## 25.09.2018
-### Zwei Welten
+## 17.09.2018
+### Stunde 8
+...
+
+## 18.09.2018
+### Zwei Welten (Stunde 9)
 In der heutigen Doppelstunde, war ich alleine, da Johanna einen Termin hatte. Forever Alone. Ich habe mich mit unserem Projekt befasst und das Spiel weiter bearbeitet. Ich habe eine zweite Bühne hinzugefügt (ein neuer Planet), welcher das erste Level des Spiels darstellen wird.
 Das Flugzeug begleitet den Spieler durch das Spiel und interargiert auch mit ihm.
 
@@ -93,33 +108,45 @@ Das Flugzeug begleitet den Spieler durch das Spiel und interargiert auch mit ihm
 Am Ende der Ferien waren wir so motiviert, dass wir haben uns zum arbeiten getroffen. Wir haben versucht Snap auf Johannas Laptop zu öffnen, allerdings ist der etwas in die Jahre gekommene Laptop jedes Mal erneut abgestürzt. Deshalb haben wir uns schlussendlich mit unserem Github Blog beschäftigt und einen Plan zur weiteren Vorgehensweise unser Spiel betreffend ausgearbeitet. Im Endefekt ein äußert produktiver und gut investierter Ferientag. 
 
 ## 22.10.2018
-### Planetenwechsel und Kommunikation zwischen Bühne und Sprite
+### Planetenwechsel und Kommunikation zwischen Bühne und Sprite (Stunde 10)
 In dieser Stunde haben wir nach Vorschlag von Herrn Buhl unsere Befehle überarbeitet und überflüssige Operatoren entfernt. Daraufhin haben wir uns mit der Kommunikation zwischen verschiedenen Objekten innerhalb des Programms beschäftigt. Herr Buhl hat uns erklärt, dass Objekte in Form eines Befehls Nachrichten senden und empfangen können. Dieses Prinzip haben wir nun auch in unserem Spiel umgesetzt. Nun sendet unser Flugzeug eine Nachricht an die Hintergründe, wenn es mit der Kommunikation mit dem Spieler fertig und bereit zur Weiterreise ist. Wenn die Bühnen diesen Befehl erhalten, wechselt die Bühne von der Erde zum anderen Planeten und die Reise nimmt ihren Lauf. To be continued.... 
 
 ![bsp stride](image/PlanetErde.png)
 
+## 23.10.2018
+### Stunde 11
+...
+
 ## 29.10.2018
-### Metheory ist geboren (Stunde ?)
+### Metheory ist geboren (Stunde 12)
 Let us celebrate today as the day where the one and only Metheory saw the light of life. Metheory ist ein selbstgezeichneter Meteorid der in unserem Spiel eine bedeutende Rolle einnimmt. Ebenfalls haben wir einen roten Strich als neue Sprite erschaffen, der in der Lage ist, den Meteor davon abzuhalten, den Boden zu berühren. Dieser rote Strich folgt der X-Position der Maus, bleibt dabei aber in seiner Y-Position.
 
 ## 30.10.2018
-### Everything for nothing? (Stunde ?)
+### Everything for nothing? (Stunde 13)
 Heute war ein nicht so guter Tag für uns... es war der schlechteste Tag in unserer Informatikgeschichte (since day 1). Zuerst haben wir den Computer nicht anbekommen... Dann konnte Snap! unser Projekt nicht öffnen, aus für uns unergründlichen Gründen. Nach mehreren Versuchen konnten wir glücklicherweise das Projekt recovern, allerdings in der Version vom 22.10.2018. Nun haben wir erstmal zwei Sicherheitskopien des Projekts gemacht, um sicherzugehen, dass das Spiel nicht wieder verschwindet. Wir mussten nun die Arbeit des Vortages wiederholen und haben das Spiel weiterentwickelt. Dabei hat jede Sprite ein eigenes Skript bekommen, da wir vorher alles in einem Skript hatten. Nachdem wir alles erneut gespeichert hatten, wollten wir es ein letztes mal in der Stunde öffnen und mussten mit Erschrecken feststellen, dass alle Sicherheitskopien sowie das Original erneut nicht abrufbar waren. Wir mussten uns damit abfinden, dass all unsere bis jetzt geleistete Arbeit umsonst gewesen war :(
 
 ## 04.11.2018
-### Glück im Unglück (Stunde ?)
-Viccianna Vlog: Ich wollte einfach nicht wahrhaben, dass alles weg ist... NEIN! Als ich erwachte kam mir ein Geistesblitz, ich sprang auf und stieß mir den Kopf an der Decke, aber das war es wehrt. Ich sprintete zu meinem Computer, loggte mich ein u8nd sah überglücklich, dass unser Projekt in Sanp noch geöffnet war. Ich machte 3 Sicherheitskopien in der Hoffnung, dasss wir diese auch später im Unterricht öffnen können. and to be continued...
+### Glück im Unglück 
+Als ich heute an meinem Computer gearbeitet habe, ist mir plötzlich aufgefallen, dass ich noch ein Fenster von Snap! offen hatte. Als ich darauf ging war ich sehr erleichtert da ich gesehen habe, dass ich noch eine alte Version des Spiel geöffnet hatte und Gott sei Dank beim letzten bearbeiten zu Hause geschlossen hatte. Ich habe diese Version also mehrmals unter verschiedenen Namen gespeichert und hoffte, dass wenn wir das nächste mal im Unterricht sitzen, diese öffnen können um weiter daran zu arbeiten anstatt alles nochmal neu zu programmieren.
+
+## 05.11.2018
+### Stunde 14
+In der Hoffnung, dass das Speichern des Spiels bei mir (Victoria) funktioniert hat, haben wir in der heutigen Montagsstunde den Computer angeschaltet un dzu unserer Zufriedenheit festgestellt, das das Spiel wieder zu öffnen war. Es hat also geklappt und wir müssen nicht nochmal von Vorne anfangen. Wir haben das Spiel ein paar Mal durchlaufen lassen um zu sehen, auf welchem Stand der Dinge das Spiel war (da es ja nicht die aktuellste Version des Spiel war, die zu Hause gespeichert wurde). Aber an diesem Tag haben wir nichts großartig verändert, sondern waren eher damit beschäftigt es auf den Stand zu bringen, in dem es letzte Stunde war.
+
+## 06.11.2018
+### Stunde 15
+Die heutige Doppelstunde haben wir hauptsächlich wieder damit verbracht unser Spiel auf den ursprünglichen Stand zu bringen. Nachdem wir dachten, dass es wieder hergestellt war machten wir uns an die Arbeit nun endlich das Spiel weiterzuentwickeln. Dies beinhaltete den Befehl zu "Bouncen". Wir wollten, dass die Sprite bei einem Hinderniss davon abprallt, doch dies hat einfach nicht funktioniert. Dann war die Zeit auch schon vorbei und wir mussten unsere weiteren Vorhaben auf die nächste Stunde verschieben. 
 
 ## 12.11.2018
 ### Stunde ?
-Die heutige Stunde war erneut ein Erfolg für uns. Durch die HIlfe von Herrn Buhl haben wir es geschafft, das unser Meteor bei dem Hinderniss bouncet. Somit sind wir bei unserem Spiel ein ganzes Stück weitergekommen und haben das, was wir vergeblich in den letzten 2 Stunden versucht haben endlich geschafft. Außerdem konnten wir die Sprite so programmieren, dass sie nun auch vom Rand abprallt. Mit diesen 2 Schritten haben wir also heute einen großen Vorschritt erzielt. 
+Die heutige Stunde war erneut ein Erfolg für uns. Durch die Hilfe von Herrn Buhl haben wir es geschafft, das unser Meteor bei dem Hinderniss "bouncet". Somit sind wir bei unserem Spiel ein ganzes Stück weitergekommen und haben das, was wir vergeblich in den letzten 2 Stunden versucht haben endlich geschafft. Außerdem konnten wir die Sprite so programmieren, dass sie nun auch vom Rand abprallt. Mit diesen 2 Schritten haben wir also heute einen großen Vorschritt erzielt. (Wie genau wir das gelöst haben kann man in unserem 2. Blog nachlesen, der link ist unten bei unseren Quellen zu finden.)
 - er hat uns heholfen
 - geschafft zu bouncen
 - prallt vom rand und der sprite ab
 
 ## 13.11.2018
 ### Stunde ?
-Auch der heutige Tag brachte Erfolge. Wir haben viele Ideen bekommen, wie wir unser Spiel vollenden können. Schlussendlich haben wir uns dafür entschieden, dass am Ende ein schwarzes Loch den Meteor aufsaugt, wenn das Spiel gewonnen ist. Wenn aber das Speil verloren wird, dann explodiert die Welt und das Spiel ist vorbei. Weiterhin aber begleitet das Flugzeug den Spieler.
+Auch der heutige Tag brachte Erfolge. Wir haben viele Ideen bekommen, wie wir unser Spiel vollenden können. Schlussendlich haben wir uns dafür entschieden, dass am Ende ein schwarzes Loch den Meteor aufsaugt, wenn das Spiel gewonnen ist. Wenn aber das Spiel verloren wird, dann explodiert die Welt und das Spiel ist vorbei. Weiterhin aber begleitet das Flugzeug den Spieler, doch es gibt noch einige komplikationen bei dem Szenario "verloren". Es gibt noch einige Kleinigkeiten die wir verbessern aber im großen und ganzen sind wir schon sehr zufrieden mit unseem Spiel.
 - erfolgreicher tag
 - änderung der sprite nach jeweils 10 sek.
 - gewonnen: schwarze loch lässt metheory verschwinden und welt ist gerettet, konfetti und flugzeug erscheinen

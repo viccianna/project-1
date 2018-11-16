@@ -141,7 +141,7 @@ Die heutige Doppelstunde haben wir hauptsächlich wieder damit verbracht unser S
 
 ## 12.11.2018
 ### Stunde ?
-Die heutige Stunde war erneut ein Erfolg für uns. Durch die Hilfe von Herrn Buhl haben wir es geschafft, das unser Meteor bei dem Hinderniss "bouncet". Somit sind wir bei unserem Spiel ein ganzes Stück weitergekommen und haben das, was wir vergeblich in den letzten 2 Stunden versucht haben endlich geschafft. Außerdem konnten wir die Sprite so programmieren, dass sie nun auch vom Rand abprallt. Mit diesen 2 Schritten haben wir also heute einen großen Vorschritt erzielt. (Wie genau wir das gelöst haben kann man in unserem 2. Blog nachlesen, der link ist unten bei unseren Quellen zu finden.)
+Die heutige Stunde war erneut ein Erfolg für uns. Durch die Hilfe von Herrn Buhl haben wir es geschafft, das unser Meteor bei dem Hinderniss "bouncet". Somit sind wir bei unserem Spiel ein ganzes Stück weitergekommen und haben das, was wir vergeblich in den letzten 2 Stunden versucht haben endlich geschafft. Außerdem konnten wir die Sprite so programmieren, dass sie nun auch vom Rand abprallt. Mit diesen 2 Schritten haben wir also heute einen großen Vorschritt erzielt. (Wie genau wir das gelöst haben kann man in unserem 2. Blog nachlesen, der Link ist unten bei "Alles zum Spiel" zu finden oder oben in der Gliederung.)
 - er hat uns heholfen
 - geschafft zu bouncen
 - prallt vom rand und der sprite ab

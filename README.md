@@ -148,7 +148,10 @@ Die heutige Stunde war erneut ein Erfolg für uns. Durch die Hilfe von Herrn Buh
 
 ## 13.11.2018
 ### Stunde ?
-Auch der heutige Tag brachte Erfolge. Wir haben viele Ideen bekommen, wie wir unser Spiel vollenden können. Schlussendlich haben wir uns dafür entschieden, dass am Ende ein schwarzes Loch den Meteor aufsaugt, wenn das Spiel gewonnen ist. Wenn aber das Spiel verloren wird, dann explodiert die Welt und das Spiel ist vorbei. Weiterhin aber begleitet das Flugzeug den Spieler, doch es gibt noch einige komplikationen bei dem Szenario "verloren". Es gibt noch einige Kleinigkeiten die wir verbessern aber im großen und ganzen sind wir schon sehr zufrieden mit unseem Spiel.
+Auch der heutige Tag brachte Erfolge. Wir haben viele Ideen bekommen, wie wir unser Spiel vollenden können. Schlussendlich haben wir uns dafür entschieden, dass am Ende ein schwarzes Loch den Meteor aufsaugt, wenn das Spiel gewonnen ist. Außerdem fliegt der Begleiter, das Flugzeug ins Bild mit Konfeti und gratuliert dem Spieler zu seinem Sieg. Wenn aber das Spiel verloren wird, dann explodiert die Welt und das Spiel ist vorbei. Weiterhin aber begleitet das Flugzeug den Spieler, doch es gibt noch einige komplikationen bei dem Szenario "verloren". Es gibt noch einige Kleinigkeiten die wir verbessern aber im großen und ganzen sind wir schon sehr zufrieden mit unseem Spiel.
+
+![bsp stride](image/13.11konfetti)
+
 - erfolgreicher tag
 - änderung der sprite nach jeweils 10 sek.
 - gewonnen: schwarze loch lässt metheory verschwinden und welt ist gerettet, konfetti und flugzeug erscheinen

@@ -13,7 +13,7 @@
 
 [6. Alles zum Spiel](#6)
 
-## <a name="1"></a>Einleitung
+# <a name="1"></a>Einleitung
 In diesem Blog werden Johanna und ich die Inhalte der Informatikstunden aufschreiben und dokumentieren. Zudem werden wir auch außerhalb der Schule alles hier aufschrieben um es nachvollziebar für die Leser zu machen, falls wir Fortschritte machen sollten. Also viel Spaß beim Lesen!
 
 
@@ -78,7 +78,7 @@ Nachdem ich mich dann mit den Befehlen weiterhin auseinandergestzthabe, habe ich
 ### Stunde 5
 ...
 
-## <a name="3"></a>Unser Projekt
+# <a name="3"></a>Unser Projekt
 
 ## 10.09.2018
 ### Stunde 6
@@ -161,12 +161,12 @@ Auch der heutige Tag brachte Erfolge. Wir haben viele Ideen bekommen, wie wir un
 ### Victoria
 Da wir noch einige Kleinigkeiten an dem Spiel verfeinern wollen hab ich mich heute Nachmittag erneut mit dem Programm auseinandergesetzt. Ich habe versucht einen kleinen Fehler zu beheben, welchen wir in der letzten Informatikstunde nicht finden konnten. Nach einer Zeit habe ich es hinbekommen. Doch wir haben noch ein zweites Problem, welches ich bis jetzt noch nicht lösen konnte. Außerdem beschäftige ich mich noch mit unserem Blog hier auf Github. Mit einigen Verschönerungen möchte ich diesen Blog nun fast zu Ende bringen. Ich habe ein Inhaltsverzeichnis erstellt und ein paar Inhalte der letzten Stunden hinzugefügt. Außerdem habe ich noch ein paar Inhaltliche Punkte ergänzt (Einleitung, Fazit). Zudem habe ich auch versucht unseren Prozess auf dem Programm inhaltlich zu gliedern, sodass man weiß was zum wirklichen Projekt gehört und was nicht (Einfindungsphase und Projekt). 
 
-## <a name="4"></a>Fazit und Zusammenfassung
+# <a name="4"></a>Fazit und Zusammenfassung
 Dieser Blog hier soll dazu dienen unsere Schritte zu dem finalen Projekt verständlich zu machen. Um die 3 Monate hatten wir für unser aller erstes Prjekt Zeit und es war eine sehr interessante Zeit, in der wir wirklich viel neues und spannendes gelernt haben. Da wir beide vor dem Informatikunterricht nicht wirklich mit Computern gearbeitet haben, war das aales Neuland für uns. Doch nach nicht alzu langer zeit hat man sich gut einarbeiten können und irgendwann hat es sogar angefangen Spaß zu machen. Auch das Programm Snap! (https://snap.berkeley.edu/snapsource/snap.html), welches wir ausgewählt haben um unser Spiel zu programmieren war wirklich anfängerfreundlich und relativ leicht zu bedienen. Glücklicherweise ist es uns auch gelungen, das Spiel so zu gestallten und zu programmieren wie wir uns das vorgestellt hatten. Da es auf dieser Seite viele Befehle und eine große Auswahl was Kostüme und Hintergründe angeht gibt, waren unseren Vorstellungen keine Grenzen gesetzt. Es gab anfangs so viele Möglichkeiten, was wir als Projekt abgeben konnten. Von komplexen Zeichnungen, welche wir auf der Website von "The Joy and Beauty of Computing" gesehen hatten, bis richtige Siele mit Animationen. Nachdem man unseren Blog von Anfang an gelesen hat weiß man auch, dass wir uns bei diesem Projekt für ein Spiel entschieden haben. Dieses zusammenzusetzen und zu programmieren hat um alles nochmal zusammenzufassen, viel Spaß gemacht und war mal etwas anders als der reguläre Unterricht und eine schöne Abwechslung im Alltag. 
 Herr Buhl hat uns in der 1. Stunde erzählt, dass einige Schüler durch den Informatikunterricht die Freude am programmieren gefunden haben und mittlerweile kann ich auch verstehen warum. Beim Programmieren kann man seiner Kreativität freien Lauf lassen und sich auch künstlerisch ausleben und ich denke, dass dies auch einer der Gründe für die früheren Schüler gewesen sein kann. Für mich persönlich hat es wirklich spaßgemacht und ich freu mich schon auf die neuen Projekte.
 (Genaue Informationen zu unserem Spiel findet ihr auf unseren anderen Blog auf Github.)
 
-## <a name="5"></a>Quellen
+# <a name="5"></a>Quellen
 
 - https://www.youtube.com/watch?v=LXQfs7qEXfc
 
@@ -176,7 +176,7 @@ Herr Buhl hat uns in der 1. Stunde erzählt, dass einige Schüler durch den Info
 
 - https://www.keinblatt.de/blog/?tag=explosion (Bild)
 
-## <a name="6"></a>Alles zum Spiel
+# <a name="6"></a>Alles zum Spiel
 
 Hier findet ihr unseren 2. Blog in dem wir genau unser Spiel erklären, un das Schritt für Schritt.
 Viel Spaß beim nachmachen!

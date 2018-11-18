@@ -17,7 +17,7 @@
 In diesem Blog werden Johanna und ich die Inhalte der Informatikstunden aufschreiben und dokumentieren. Zudem werden wir auch außerhalb der Schule alles hier aufschrieben um es nachvollziebar für die Leser zu machen, falls wir Fortschritte machen sollten. Also viel Spaß beim Lesen!
 
 
-## <a name="2"></a>Einfindung in das Programm 
+# <a name="2"></a>Einfindung in das Programm 
 
 ## 21.08.2018 15 Uhr
 ### Einführungsstunde (Stunde 1)

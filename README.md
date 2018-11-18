@@ -102,7 +102,7 @@ Unser Problem lag in dieser Stunde darin, dass die Flugzeuganimation zu groß wa
 
 ## 18.09.2018
 ### Zwei Welten (Stunde 9)
-In der heutigen Doppelstunde, war ich alleine, da Johanna einen Termin hatte. Forever Alone. Ich habe mich mit unserem Projekt befasst und das Spiel weiter bearbeitet. Ich habe eine zweite Bühne hinzugefügt (ein neuer Planet), welcher das erste Level des Spiels darstellen wird.
+In der heutigen Doppelstunde, war ich alleine, da Johanna einen Termin hatte. Ich habe mich mit unserem Projekt befasst und das Spiel weiter bearbeitet. Ich habe eine zweite Bühne hinzugefügt (ein neuer Planet), welcher das erste Level des Spiels darstellen wird. Ich habe dem Flugzeug Befehle gegeben, nach denen er über die Bühne fliegt und den Spieler zu den "Abenteuern" leitet.
 Das Flugzeug begleitet den Spieler durch das Spiel und interargiert auch mit ihm.
 
 ## 19.10.2018

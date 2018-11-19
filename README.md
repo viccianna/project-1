@@ -31,33 +31,31 @@ fanden dann aber "The Beauty and Joy of Computing" am spannensten. Den Rest der 
 ### Victoria
 Um mich mehr in das programmieren einzufinden, habe ich mir zu Hause Starlogo TNG heruntergeladen und eineinhalb 
 Stunden mit verschiedenen Befehlen und Figuren herumexperimentiert. Ich habe verschiedene Kombinationenen von Befehlen ausprobiert um
-herauszufinden, wie sich die Figuren, in meinem Fall 2 Schildkröten, dementsprechend verhält.
+herauszufinden, wie sich die Figuren, in meinem Fall 2 Schildkröten, dementsprechend verhalten.
 
 ## 26.08.2018 
 ### Johanna
 Ich habe mich Zuhause anderthalb Stunden mit TBaJoC beschäftigt und eigene Figuren gezeichnet. 
-Die Figuren habe ich sich bewegen und reden lassen. Außerdem haben sie auf mehrere Fragen geantwortet. Ich war
+Die Figuren habe ich bewegen und reden lassen. Außerdem haben sie auf mehrere Fragen geantwortet. Ich war
 schon stolz, dass ich das geschafft habe. 
 
 ## 27.08.2018
 ### Zeichnen (Stunde 2)
 Um uns noch besser mit dem Programm vertraut zu machen, haben wir uns in der Stunde mit einem kleinen Projekt beschäftigt. 
-Wir haben einen Schneemann (mit dem Namen Vicci Jo Man) gemalt und ihn auf einem Berg herum laufen lassen. Außerdem hat er seinen
-Arm bewegt und sich mit uns unterhalten. Zuerst hat er uns gefragt wie wir heißen, dann unseren Namen bewundert und uns nach unserer Meinung über das Wetter gefragt.
+Wir haben einen Schneemann (mit dem Namen Vicci-Jo Man) gemalt und ihn auf einem Berg herum laufen lassen. Außerdem hat er seinen Arm bewegt und sich mit uns unterhalten. Zuerst hat er uns gefragt wie wir heißen, dann unseren Namen bewundert und uns nach unserer Meinung über das Wetter gefragt.
 Am Ende der Stunde haben wir es nicht gespeichert, da es nur eine Übung war und nicht unser richtiges Projekt. Wir haben aber einen Screenshot gemacht.
 
 
  ![bsp stride](image/27.8.png "Screenshot von Schneemann")
  
- ## 28.08.2018 
- ### Illuminati (Stunde 3)
- Heute am Illuminati Tag habenm wir uns um unsere Internet Präsenz gekümmert. Wir haben den GitHub Block gekümmert und gelernt 
- wie man Screensgotts einfügt und den Olymp besteigt. Außerdem haben wir Mozilla Firefox installiert und so etwas gutes für die Schule getan.
+## 28.08.2018 
+### Unser Blog (Stunde 3)
+In der heutigen Stunde haben wir uns weniger mit dem Spiel beschäftigt, dafür mehr mit dem Blog. Wir haben uns ein wenig eingearbeitet und schließlich auch ein paar Screenshots hochgeladen um diese dann hier auch einfügen zu können. Mehr ist heute aber nicht wirklich passiert, da das internet auch auf einmal nicht mehr ging. Nachdem haben wir unsere Internetseite erstmal geupdatet damit wir wieder auf unseren Blog zugreifen konnten.
 
 
 ## 02.09.2018
 ### Experimentieren Victoria
-Heute habe ich mich erneut zu Hause an unser gemeinsames Project gesetzt und mit dem Programm experimentiert.
+Heute habe ich mich erneut zu Hause an unser gemeinsames Projekt gesetzt und mit dem Programm experimentiert.
 Diesesmal habe ich versucht einen Stift eine bestimmte Linie zeichnen zu lassen. Den Stift, bzw. das Kostüm, 
 habe ich heute erst gefunden, nachdem ich mir das Programm näher angesehen und eine große Auswahl an 
 verschiedenen Kostümen bei der Suche gefunden hatte. Ich habe eine Reihe von Befehlen zusammengestellt 
@@ -66,7 +64,7 @@ es klappen würde.
 
 ![bsp stride](image/screenshot2.9.png "Screenshot von Befehlen")
 
-Nachdem ich mich dann mit den Befehlen weiterhin auseinandergestzthabe, habe ich die Befehle so zusammengestellt, dass die Sprite nun eine bestimmt Form mit dem Stift zeichnet, in diesem Fall ein Dreieck. 
+Nachdem ich mich dann mit den Befehlen weiterhin auseinandergesetzt habe, habe ich die Befehle so zusammengestellt, dass die Sprite nun eine bestimmt Form mit dem Stift zeichnet, in diesem Fall ein Dreieck. 
 
 ![bsp stride](image/5.9new.PNG)
 
@@ -80,7 +78,7 @@ Nachdem ich mich dann mit den Befehlen weiterhin auseinandergestzthabe, habe ich
 
 ## 10.09.2018
 ### Stunde 6
-...
+Heute haben wir uns angefangen ein paar Gedanken zum Projekt zu machen, welches wir am Ende abgeben wollen. Wir hatten beide etwas mit einem Flugzeug im Kopf, welches einen durch das Spiel begleitet. Also haben wir uns erstmal darum gekümmert ein passendes Kostüm zu kreieren. Zu erst haben wir bei den vorhandedn Kostümen auf Snap! gestöbert doch da haben wir keins gefunden mit dem wir komplett zufrieden waren. Also haben wir danach im Internet nach Bildern geguckt da wir gelesen haben, dass man auch Kostüme in Form von Bildern importieren kann. Nach einiger Zeit ahben wir dann ein guts gefunden, was uns beiden gefiel. Wir hatten außerdem herausgefunden, dass man die Datei zuerst herunterladen mussum sie zu importieren. Das taten wir dann auch und wir hatten unser 1. Kostüm damit fertig. Weiter sind wir aber nicht gekommen und wir arbeiten morgen weiter daran.
 
 # <a name="3"></a>Unser Projekt
 
@@ -94,7 +92,7 @@ Unsere erste Idee war es, das Bermudadreieck auf einer Karte von einem Flugzeug 
 abstürzt. Allerdings war uns diese Idee zu wenig interaktiv, deshalb mussten wir uns etwas neues überlegen. 
 Wir haben mithilfe von Google Earth den Hintergrund zu einer Weltkarte geändert. Daraufhin haben wir aus einer Flugzeugbild das Flugzeug ausgeschnitten und es so programmiert, dass es endlos um die ganze Welt fliegt und sich währenddessen mit dem Spieler unterhält.
 Es hat erzählt wie es heißt und dann den Spieler eingeladen, mit ihm zusammen die Welt zu retten.
-Unser Problem lag in dieser Stunde darin, dass die Flugzeuganimation zu groß war aber sobald man sie verkleinerte in ihren Konturen verschwamm. Außerdem war es nicht möglich,dass Flugzeug bedeutend langsamer fliegen zu lassen.
+Unser Problem lag in dieser Stunde darin, dass die Flugzeuganimation zu groß war aber sobald man sie verkleinerte in ihren Konturen verschwamm. Außerdem war es nicht möglich, dass Flugzeug bedeutend langsamer fliegen zu lassen.
 
 ## 17.09.2018
 ### Stunde 8

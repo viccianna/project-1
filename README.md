@@ -115,7 +115,7 @@ In dieser Stunde haben wir nach Vorschlag von Herrn Buhl unsere Befehle überarb
 
 ## 23.10.2018
 ### Stunde 11
-Nachdem wir gestern den Bühnenwchsel hinbekommen haben, haben wir uns nun mit dem Spiel befaast. Dazu haben wir um Internet nach guten Hintergründen gesucht. Als wir einen gefunde hatten haben wir wieder den Befehl eingebaut, die Bühne zu wechseln und somit war die Grundlage schonmal gelegt. Als nächsten Schritt wollten wir als Spielgegenstand eine zum Thema passende Sprite erstellen. Dann hatten wir die Idee einen Meteoriten zu malen und diesen als Kostüm zu nutzten. Also machten wir uns an die Arbeit. Leider war die Zeit nicht lang genug und wir hatten ihn nicht fertig bekommen. Aber wir haben das Vorhaben dann einfach auf nächste Woche verlegt.
+Nachdem wir gestern den Bühnenwchsel hinbekommen haben, haben wir uns nun mit dem Spiel befasst. Dazu haben wir um Internet nach guten Hintergründen gesucht. Als wir einen gefunde hatten haben wir wieder den Befehl eingebaut, die Bühne zu wechseln und somit war die Grundlage schonmal gelegt. Als nächsten Schritt wollten wir als Spielgegenstand eine zum Thema passende Sprite erstellen. Dann hatten wir die Idee einen Meteoriten zu malen und diesen als Kostüm zu nutzten. Also machten wir uns an die Arbeit. Leider war die Zeit nicht lang genug und wir hatten ihn nicht fertig bekommen. Aber wir haben das Vorhaben dann einfach auf nächste Woche verlegt.
 
 ## 29.10.2018
 ### Metheory ist geboren (Stunde 12)

@@ -1,4 +1,4 @@
-# PROJEKT  INFORMATIK
+# PROJEKT  INFORMATIK (*"Planet vs. Komet"*)
 
 # Inhalt
 [1. Einleitung](#1)

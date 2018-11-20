@@ -14,7 +14,7 @@
 [6. Alles zum Spiel](#6)
 
 # <a name="1"></a>Einleitung
-In diesem Blog werden Johanna und ich die Inhalte der Informatikstunden aufschreiben und dokumentieren. Zudem werden wir auch außerhalb der Schule alles hier aufschrieben um es nachvollziebar für die Leser zu machen, falls wir Fortschritte machen sollten. Also viel Spaß beim Lesen!
+In diesem Blog haben wir die Entwicklung unseres Informatikprojekts dokumentiert. Dazu gehören sowohl die Informatikstunden, in denen wir an unserem Projekt gearbeitet haben, als auch die Zeit welche wir außerhalb der Schule dafür investiert haben. Schlussendlich ist eine Chronologie entstanden, welche die Entwicklung des Spiels mit Progression und Rückschlägen so nachvollziehbar wie möglich darstellt. Also viel Spaß beim Lesen!
 
 
 # <a name="2"></a>Einfindung in das Programm 
@@ -25,7 +25,7 @@ Als aller erstes haben wir uns eine gemeinsame Emailadresse bei Googlemail erste
 um uns damit beide jederzeit bei Github anmelden zu können.
 Wir haben uns in Herrn Buhls Dokument auf Github über die verschiedenen Programme und Möglichkeiten informiert um zu entscheiden,
 mit welchem wir unser erstes Projekt starten wollen. Wir haben uns länger mit Starlogo TNG beschäftigt,
-fanden dann aber "The Beauty and Joy of Computing" am spannensten. Den Rest der Stunde haben wir das Programm erforscht.
+fanden dann aber "The Beauty and Joy of Computing" (beziehungsweise "Snap!") am spannensten. Den Rest der Stunde haben wir das Programm erforscht.
 
 ## 25.08.2018 
 ### Victoria
@@ -35,7 +35,7 @@ herauszufinden, wie sich die Figuren, in meinem Fall 2 Schildkröten, dementspre
 
 ## 26.08.2018 
 ### Johanna
-Ich habe mich Zuhause anderthalb Stunden mit TBaJoC beschäftigt und eigene Figuren gezeichnet. 
+Ich habe mich Zuhause anderthalb Stunden mit "Snap!" beschäftigt und eigene Figuren gezeichnet. 
 Die Figuren habe ich bewegen und reden lassen. Außerdem haben sie auf mehrere Fragen geantwortet. Ich war
 schon stolz, dass ich das geschafft habe. 
 
@@ -50,7 +50,7 @@ Am Ende der Stunde haben wir es nicht gespeichert, da es nur eine Übung war und
  
 ## 28.08.2018 
 ### Unser Blog (Stunde 3)
-In der heutigen Stunde haben wir uns weniger mit dem Spiel beschäftigt, dafür mehr mit dem Blog. Wir haben uns ein wenig eingearbeitet und schließlich auch ein paar Screenshots hochgeladen um diese dann hier auch einfügen zu können. Mehr ist heute aber nicht wirklich passiert, da das internet auch auf einmal nicht mehr ging. Nachdem haben wir unsere Internetseite erstmal geupdatet damit wir wieder auf unseren Blog zugreifen konnten.
+In der heutigen Stunde haben wir uns weniger mit dem Spiel beschäftigt, dafür mehr mit dem Blog. Wir haben uns ein wenig eingearbeitet und schließlich auch ein paar Screenshots hochgeladen um diese dann hier auch einfügen zu können. Mehr ist heute aber nicht wirklich passiert, da das internet auch auf einmal nicht mehr ging. Zwischendurch haben wir unsere Internetseite mehrmals geupdatet, damit wir wieder auf unseren Blog zugreifen konnten.
 
 
 ## 02.09.2018
@@ -68,6 +68,11 @@ Nachdem ich mich dann mit den Befehlen weiterhin auseinandergesetzt habe, habe i
 
 ![bsp stride](image/5.9new.PNG)
 
+
+## 02.09.2018
+### Johanna (Brüder befragen)
+Vicci und Ich hatten beschlossen, dass wir gerne ein Spiel kreieren wollten, da uns dieses Projekt am sinnvollsten, spannensten aber auch für den Anfang am anspruchvollsten vorkam. Da wir uns über die genaue Gestaltung des Spiels aber noch unsicher waren, habe ich Zuhause meine jüngeren Brüder dazu befragt, was sie in ihrer Freizeit gerne für Spiele spielen und was ihnen dabei am wichtigsten ist. Die Ergebnisse sind noch genauer in der Einleitung unseres zweiten Blocks zu lesen aber grob zusammen gefasst lässt sich sagen, dass die Hintergrundgeschichte des Spiels sowie die Möglichkeiten der Interaktion die wichtigsten Kriterien darstellten. Das Thema, was meine Brüder am spannensten und am besten geeignet fanden, war der Weltraum beziehungsweise das Universum. Daraufhin habe ich mich mit Vicci darauf geinigt, dass wir das Spiel um ein Flugzeug herum kreiren wollen, welches mit dem Spiler den Weltraum entdeckt. Genauere Details standen aber noch nicht fest.
+
 ## 03.09.2018
 ### Stunde 4
 ...
@@ -78,7 +83,7 @@ Nachdem ich mich dann mit den Befehlen weiterhin auseinandergesetzt habe, habe i
 
 ## 10.09.2018
 ### Stunde 6
-Heute haben wir uns angefangen ein paar Gedanken zum Projekt zu machen, welches wir am Ende abgeben wollen. Wir hatten beide etwas mit einem Flugzeug im Kopf, welches einen durch das Spiel begleitet. Also haben wir uns erstmal darum gekümmert ein passendes Kostüm zu kreieren. Zu erst haben wir bei den vorhandedn Kostümen auf Snap! gestöbert doch da haben wir keins gefunden mit dem wir komplett zufrieden waren. Also haben wir danach im Internet nach Bildern geguckt da wir gelesen haben, dass man auch Kostüme in Form von Bildern importieren kann. Nach einiger Zeit ahben wir dann ein guts gefunden, was uns beiden gefiel. Wir hatten außerdem herausgefunden, dass man die Datei zuerst herunterladen mussum sie zu importieren. Das taten wir dann auch und wir hatten unser 1. Kostüm damit fertig. Weiter sind wir aber nicht gekommen und wir arbeiten morgen weiter daran.
+Heute haben wir uns angefangen ein paar Gedanken zum Projekt zu machen, welches wir am Ende abgeben wollen. Wir hatten beide etwas mit einem Flugzeug im Kopf, welches einen durch das Spiel begleitet. Also haben wir uns erstmal darum gekümmert ein passendes Kostüm zu kreieren. Zeichnen bei Snap kam nicht infrage, da auf dem Computer das Zeichnen von so genaue Linien und Konturen die wir uns für unsere "Hauptfigur" gewünscht haben, nicht möglich ist. Danach haben wir bei den vorhandenen Kostümen auf Snap! gestöbert doch da haben wir keins gefunden mit dem wir komplett zufrieden waren. Also haben wir im Internet nach Bildern und Animationen geguckt da wir herausgefunden haben, dass man auch Kostüme in Form von Bildern importieren kann. Nach einiger Zeit haben wir dann ein Flugzeug gefunden, was uns beiden gefiel. Wir hatten außerdem herausgefunden, dass man die Datei zuerst herunterladen muss, um sie zu importieren. Das taten wir dann auch und wir hatten unser 1. Kostüm damit fertig. Wir haben noch die Größe angepasst und es passend ausgeschnitten. Unser wichtigstes Element ist also in dieser Stunde fertig geworden!
 
 # <a name="3"></a>Unser Projekt
 
@@ -90,9 +95,9 @@ Heute haben wir uns angefangen ein paar Gedanken zum Projekt zu machen, welches 
 Wir haben heute bei Snap! Build your own block 4.2.1.4. einen Account eröffnet, um unser Projekt speichern zu können. 
 Unsere erste Idee war es, das Bermudadreieck auf einer Karte von einem Flugzeug kennzeichnen zu lassen woraufhin das Flugzeug 
 abstürzt. Allerdings war uns diese Idee zu wenig interaktiv, deshalb mussten wir uns etwas neues überlegen. 
-Wir haben mithilfe von Google Earth den Hintergrund zu einer Weltkarte geändert. Daraufhin haben wir aus einer Flugzeugbild das Flugzeug ausgeschnitten und es so programmiert, dass es endlos um die ganze Welt fliegt und sich währenddessen mit dem Spieler unterhält.
+Wir haben mithilfe von Google Earth den Hintergrund zu einer Weltkarte geändert. Daraufhin haben wir unser Flugzeug so programmiert, dass es endlos um die ganze Welt fliegt und sich währenddessen mit dem Spieler unterhält.
 Es hat erzählt wie es heißt und dann den Spieler eingeladen, mit ihm zusammen die Welt zu retten.
-Unser Problem lag in dieser Stunde darin, dass die Flugzeuganimation zu groß war aber sobald man sie verkleinerte in ihren Konturen verschwamm. Außerdem war es nicht möglich, dass Flugzeug bedeutend langsamer fliegen zu lassen.
+Unser Problem lag in dieser Stunde darin, dass die Flugzeuganimation zu groß war aber sobald man sie verkleinerte in ihren Konturen verschwamm. Außerdem war es uns nicht möglich, dass Flugzeug bedeutend langsamer fliegen zu lassen.
 
 ## 17.09.2018
 ### Stunde 8

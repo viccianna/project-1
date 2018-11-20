@@ -75,7 +75,7 @@ Vicci und Ich hatten beschlossen, dass wir gerne ein Spiel kreieren wollten, da 
 
 ## 03.09.2018
 ### Stunde 4
-...
+
 
 ## 04.09.2018
 ### Stunde 5
@@ -165,6 +165,11 @@ An diesem Sonntag Nachmittag wollte ich wieder ein wenig an unserem Blog arbeite
 ## 19.11.2018
 ### Johanna (finale Überarbeitungen)
 Ich habe mich mit dem weitern Schreiben der beiden Github Blöcke beschäftigt und die fertigen Resultate noch einmal überarbeitet. Ich habe an beiden Blöcken weiter geschrieben und unsere Intention sowie den Sinn des Spiels beschrieben. Außerdem habe ich das Fazit geschrieben und noch Bilder eingefügt. Leider funktioniert an meinem Laptop das Programm Snap! immer noch nicht, obwohl alle Computerprogramme und Windows auf dem neuesten Stand sind (das Computermodell allerdings leider eher nicht). 
+
+## 20.11.2018
+### Die letzte Stunde (Stunde 18)
+In der letzten Informatikstunde vor der Abgabe habe ich mich nochmal kurz mit Johanna an unser Problem gesetzt, dass das Flugzeug den Befehl im Fall verlieren nicht ausführt. Da wir dem Problem bis heute nicht genau auf den Grunde gehen konnten, haben wir Herrn Buhl nach seiner Meinung gefragt. Wir haben uns dann kurz zusammengesetzt und etwas herumexperimentiert. Schließlich haben wir festgestellt das es daran lag, dass ein paar Befehle an der falschen Stelle waren. nach ein paar Änderungen aber hat es endlich geklappt.
+
 
 # <a name="4"></a>Fazit und Zusammenfassung
 Dieser Blog hier soll dazu dienen unsere Schritte zu dem finalen Projekt verständlich zu machen. Etwas weniger als 3 Monate hatten wir für unser aller erstes Prjekt Zeit und es war eine sehr interessante Zeit, in der wir viel neues und spannendes gelernt haben. Da wir beide vor dem Informatikunterricht nicht wirklich mit Computern gearbeitet haben, war das alles Neuland für uns. Doch nach nicht allzu langer zeit hat man sich gut einarbeiten können und als wir die Grundlagen verstanden haben, hat es sogar angefangen richtig Spaß zu machen. Auch das Programm Snap! (https://snap.berkeley.edu/snapsource/snap.html), welches wir ausgewählt haben um unser Spiel zu programmieren war wirklich anfängerfreundlich und relativ leicht zu bedienen. Glücklicherweise ist es uns auch gelungen, das Spiel so zu gestalten und zu programmieren wie wir uns das vorgestellt hatten. Da  in dem ausgwählten Programm alle nötigen Befehle sowie die Möglichkeiten des Imports von Bildern und Animationen vorhanden sind, waren unserer Phantasie keine Grenzen gesetzt. Herr Buhl hat uns keine genauen Vorgaben zur genauen Art des Projekts gemacht und die Möglichkeiten reichten von komplexen Zeichnungen, welche wir auf der Website von "The Joy and Beauty of Computing" gesehen haben, bis hin zu richtigen Spielen mit Animationen. Die vielen Möglichkeiten haben die Entscheidung nicht unbedingt vereinfacht, aber wir haben uns dann schon relativ früh für ein Spiel entschieden. Dieses dann mit Befehlen zusammen zu setzen und nach unseren Vorstellungen zu programmieren hat schlussendlich sehr viel Spaß gemacht. Außerdem war der Informatikunterricht eine willkommene Abwechslung zum regulären Unterricht, der häufig bedeutend weniger abwechslungsreich verläuft. 

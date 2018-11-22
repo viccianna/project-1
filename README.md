@@ -102,13 +102,16 @@ Es hat erzählt wie es heißt und dann den Spieler eingeladen, mit ihm zusammen 
 Unser Problem lag in dieser Stunde darin, dass die Flugzeuganimation zu groß war aber sobald man sie verkleinerte in ihren Konturen verschwamm. Außerdem war es uns nicht möglich, dass Flugzeug bedeutend langsamer fliegen zu lassen.
 
 ## 17.09.2018
-### Stunde 8
-...
+### Zwei Welten Stunde 8
+In der heutigen Doppelstunde, war ich (Victoria) alleine, da Jojo einen Arzttermin hatte. Ich habe mich mit unserem Projekt befasst und das Spiel weiter bearbeitet. Ich habe eine zweite Bühne hinzugefügt (ein neuer Planet), welcher das erste Level des Spiels darstellen wird. Ich habe dem Flugzeug Befehle gegeben, nach denen er über die Bühne fliegt und den Spieler zu den "Abenteuern" leitet.
+Das Flugzeug begleitet den Spieler durch das Spiel und interargiert auch mit ihm.
 
 ## 18.09.2018
-### Zwei Welten (Stunde 9)
-In der heutigen Doppelstunde, war ich alleine, da Johanna einen Termin hatte. Ich habe mich mit unserem Projekt befasst und das Spiel weiter bearbeitet. Ich habe eine zweite Bühne hinzugefügt (ein neuer Planet), welcher das erste Level des Spiels darstellen wird. Ich habe dem Flugzeug Befehle gegeben, nach denen er über die Bühne fliegt und den Spieler zu den "Abenteuern" leitet.
-Das Flugzeug begleitet den Spieler durch das Spiel und interargiert auch mit ihm.
+### The game (Stunde 9)
+In dieser Stunde haben wir eine genaue Skizze unserer Spielidee gezeichnet und uns überlegt, was der Sinn des Spiels ist und welche Elemente im Spiel vorkommen sollen. Wir haben uns für ein Spiel entschieden, was wir in ähnlichen Varianten schon früher gerne ab und zu gespielt haben. Das Spiel funktioniert so, dass es einen Gegenstand (meistens kugelförmig) gibt, welcher an den Rändern abprallt und über den Monitor fliegt. Mithilfe eines Elements am unteren Bildschirmrand muss man dann versuchen den Gegenstand davon abzuhalten, den Boden zu berühren, sonst ist das Spiel verloren. 
+Für dieses Spielmodell haben wir uns entschieden, da es für den Spieler auch ohne viele Erklärungen relativ simple zu verstehen ist und trotzdem einen lustigen Zeitvertreib darstellt. 
+Als Gegenstand haben wir uns überlegt, eine potentielle Gefahr zu erstellen, die der Spieler mithilfe eines Balkens aufhalten muss. Dadurch wollten wir dem Spiel noch einen "tieferen Sinn" geben (ob es so etwas wie einen tieferen Sinn bei einem Online Spiel überhaupt gibt, darüber lässt sich streiten :D ), indem man den Gegenstand aufgrund eines bestimmten Zwecks davon abhält, den Boden zu berühren.
+
 
 ## 19.10.2018
 ### Informatik Ferien 

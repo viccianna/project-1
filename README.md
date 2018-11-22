@@ -71,19 +71,22 @@ Nachdem ich mich dann mit den Befehlen weiterhin auseinandergesetzt habe, habe i
 
 ## 02.09.2018
 ### Johanna (Brüder befragen)
-Vicci und Ich hatten beschlossen, dass wir gerne ein Spiel kreieren wollten, da uns dieses Projekt am sinnvollsten, spannensten aber auch für den Anfang am anspruchvollsten vorkam. Da wir uns über die genaue Gestaltung des Spiels aber noch unsicher waren, habe ich Zuhause meine jüngeren Brüder dazu befragt, was sie in ihrer Freizeit gerne für Spiele spielen und was ihnen dabei am wichtigsten ist. Die Ergebnisse sind noch genauer in der Einleitung unseres zweiten Blocks zu lesen aber grob zusammen gefasst lässt sich sagen, dass die Hintergrundgeschichte des Spiels sowie die Möglichkeiten der Interaktion die wichtigsten Kriterien darstellten. Das Thema, was meine Brüder am spannensten und am besten geeignet fanden, war der Weltraum beziehungsweise das Universum. Daraufhin habe ich mich mit Vicci darauf geinigt, dass wir das Spiel um ein Flugzeug herum kreiren wollen, welches mit dem Spiler den Weltraum entdeckt. Genauere Details standen aber noch nicht fest.
+Vicci und Ich hatten beschlossen, dass wir gerne ein Spiel kreieren wollten, da uns dieses Projekt am sinnvollsten, spannensten aber auch für den Anfang am anspruchvollsten vorkam. Da wir uns über die genaue Gestaltung des Spiels aber noch unsicher waren, habe ich Zuhause meine jüngeren Brüder dazu befragt, was sie in ihrer Freizeit gerne für Spiele spielen und was ihnen dabei am wichtigsten ist. Die Ergebnisse sind noch genauer in der Einleitung unseres zweiten Blocks zu lesen aber grob zusammen gefasst lässt sich sagen, dass die Hintergrundgeschichte des Spiels sowie die Möglichkeiten der Interaktion die wichtigsten Kriterien darstellten. Das Thema, was meine Brüder am spannensten und am besten geeignet fanden, war der Weltraum beziehungsweise das Universum. Daraufhin habe ich mich mit Vicci darauf geinigt, dass wir das Spiel um ein Flugzeug herum kreiren wollen, welches mit dem Spieler den Weltraum entdeckt. Genauere Details standen aber noch nicht fest.
 
 ## 03.09.2018
 ### Stunde 4
+Wir haben heute bei Snap! Build your own block 4.2.1.4. einen Account eröffnet, um unser Projekt speichern zu können. Außerdem haben wir versucht heraus zu finden, wie man ein Projekt spielen kann, ohne dass man sich auf dem Account bei Snap anmelden muss. Leider schien das nicht möglich zu sein und auch Herr Buhl war der Meinung, dass wir ihm am Ende, wenn wir das Projekt abgeben wollen, einfach die Login Daten von unserem Account geben sollen. Wir fanden es schade, dass es diese Möglichkeit nicht gibt, da wir ja auch beispielsweise unsere Geschwister oder Freunde das fertige Spiel spielen lassen wollen, ohne dass man sich jedes Mal in den Account anmelden muss. Trotzdem haben wir uns überlegt, dass wir unser erstes Projekt mit Snap gestalten wollen, da es ja nicht das Letzte ist und wir bei den darauf folgenden ja noch andere Programme ausprobieren können.
+
 
 
 ## 04.09.2018
 ### Stunde 5
-...
+In dieser Stunde haben wir uns kurz mit dem Spiel beschäftigt, wollten danach aber lieber den Blog schöner gestalten. Deshalb haben wir uns die Blogs von Klassen angeschaut, die vor uns bereits ein Projekt geamcht haben und geschaut welche besonderen Elemente sie verwendet haben und wie sie beispielsweise die Überschriften groß gemacht und Links eingefügt haben. Einige dieser Elemente haben wir dann auch bei uns angewendet und unseren Blog auf den neusten Stand gebracht. 
 
 ## 10.09.2018
 ### Stunde 6
-Heute haben wir uns angefangen ein paar Gedanken zum Projekt zu machen, welches wir am Ende abgeben wollen. Wir hatten beide etwas mit einem Flugzeug im Kopf, welches einen durch das Spiel begleitet. Also haben wir uns erstmal darum gekümmert ein passendes Kostüm zu kreieren. Zeichnen bei Snap kam nicht infrage, da auf dem Computer das Zeichnen von so genaue Linien und Konturen die wir uns für unsere "Hauptfigur" gewünscht haben, nicht möglich ist. Danach haben wir bei den vorhandenen Kostümen auf Snap! gestöbert doch da haben wir keins gefunden mit dem wir komplett zufrieden waren. Also haben wir im Internet nach Bildern und Animationen geguckt da wir herausgefunden haben, dass man auch Kostüme in Form von Bildern importieren kann. Nach einiger Zeit haben wir dann ein Flugzeug gefunden, was uns beiden gefiel. Wir hatten außerdem herausgefunden, dass man die Datei zuerst herunterladen muss, um sie zu importieren. Das taten wir dann auch und wir hatten unser 1. Kostüm damit fertig. Wir haben noch die Größe angepasst und es passend ausgeschnitten. Unser wichtigstes Element ist also in dieser Stunde fertig geworden!
+Um unsere Idee in die Tat umzusetzten, haben wir uns erstmal darum gekümmert ein passendes Kostüm zu kreieren. Zeichnen bei Snap kam nicht infrage, da auf dem Computer das Zeichnen von so genaue Linien und Konturen die wir uns für unsere "Hauptfigur" gewünscht haben, nicht möglich ist. Danach haben wir bei den vorhandenen Kostümen auf Snap! gestöbert doch da haben wir keins gefunden mit dem wir komplett zufrieden waren. Also haben wir im Internet nach Bildern und Animationen geguckt da wir herausgefunden haben, dass man auch Kostüme in Form von Bildern importieren kann. Nach einiger Zeit haben wir dann ein Flugzeug gefunden, was uns beiden gefiel. Wir hatten außerdem herausgefunden, dass man die Datei zuerst herunterladen muss, um sie zu importieren. Das taten wir dann auch und wir hatten unser 1. Kostüm damit fertig. Wir haben noch die Größe angepasst und es passend ausgeschnitten. Unser wichtigstes Element ist also in dieser Stunde fertig geworden!
+
 
 # <a name="3"></a>Unser Projekt
 
@@ -92,9 +95,8 @@ Heute haben wir uns angefangen ein paar Gedanken zum Projekt zu machen, welches 
 
 ![bsp stride](image/11.09.png)
 
-Wir haben heute bei Snap! Build your own block 4.2.1.4. einen Account eröffnet, um unser Projekt speichern zu können. 
 Unsere erste Idee war es, das Bermudadreieck auf einer Karte von einem Flugzeug kennzeichnen zu lassen woraufhin das Flugzeug 
-abstürzt. Allerdings war uns diese Idee zu wenig interaktiv, deshalb mussten wir uns etwas neues überlegen. 
+abstürzt und in den Weltraum gesogen wird. Allerdings war uns diese Idee zu wenig interaktiv, deshalb mussten wir uns etwas neues überlegen. 
 Wir haben mithilfe von Google Earth den Hintergrund zu einer Weltkarte geändert. Daraufhin haben wir unser Flugzeug so programmiert, dass es endlos um die ganze Welt fliegt und sich währenddessen mit dem Spieler unterhält.
 Es hat erzählt wie es heißt und dann den Spieler eingeladen, mit ihm zusammen die Welt zu retten.
 Unser Problem lag in dieser Stunde darin, dass die Flugzeuganimation zu groß war aber sobald man sie verkleinerte in ihren Konturen verschwamm. Außerdem war es uns nicht möglich, dass Flugzeug bedeutend langsamer fliegen zu lassen.

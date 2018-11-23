@@ -177,7 +177,7 @@ Ich habe mich mit dem weitern Schreiben der beiden Github Blöcke beschäftigt u
 In der letzten Informatikstunde vor der Abgabe haben wir uns noch mal an unser Problem gesetzt und versucht, den Grund dafür zu finden, dass das Flugzeug den Befehl im Fall "verlieren" nicht richtig ausführt. Da wir dem Problem bis heute nicht genau auf den Grunde gehen konnten, haben wir Herrn Buhl nach seiner Meinung gefragt. Wir haben uns dann kurz zusammengesetzt und etwas herumexperimentiert. Schließlich haben wir festgestellt das es daran lag, dass ein paar Befehle an der falschen Stelle waren. nach ein paar Änderungen aber hat es endlich geklappt.
 
 ## 22.11.2018
-### Aller letzte Änderungen
+### Johanna (aller letzte Änderungen)
 Ich habe heute die beiden Blöcke komplett fertig geschrieben, also die Dinge ergänzt, die noch gefehlt haben. Außerdem habe ich noch einmal den ganzen Text durchgelesen und kontrolliert, ob wir auch keine Rechtschreibfehler etc. eingebaut haben und die Satzstrukturen nicht komisch klingen. Fertig! :)
 
 
